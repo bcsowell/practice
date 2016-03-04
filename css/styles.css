@@ -1,0 +1,39 @@
+body{
+  background-color: #CFC6D9;
+}
+
+.container-fluid{
+  padding: 0px;
+}
+
+.navbar{
+  background-color: #9F8DB3;
+  font-size: 2em;
+  font-style: italic;
+  color: black;
+}
+
+.navbar-brand{
+  background-color: #9F8DB3;
+  font-size: 1em;
+  font-style: italic;
+}
+
+.jumbotron{
+  background-color: #8871a1;
+  color: white;
+  font-size: 2em;
+  text-align: center;
+}
+
+.text{
+  font-size: 1.5em;
+  color: black;
+}
+
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 1.5em;
+}
